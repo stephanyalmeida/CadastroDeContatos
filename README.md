@@ -2,7 +2,11 @@
 ASP.Net MVC - C# 
 Entity Framework e SQL Server
 
+<span align="center">
+
 ##  Tela Inicial
+
+</span>
 
 </span>
 
