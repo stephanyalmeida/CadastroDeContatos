@@ -15,6 +15,7 @@ namespace AgendaTelefonicaWEB.Data
         }
 
         public DbSet<ContatoModel> Contato { get; set; }
+        public DbSet<UsuarioModel> Usuarios { get; set; }
 
     }
 }

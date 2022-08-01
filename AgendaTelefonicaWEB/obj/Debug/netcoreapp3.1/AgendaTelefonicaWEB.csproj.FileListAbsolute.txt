@@ -81,3 +81,4 @@ F:\_estudo\web\AgendaTelefonicaWEB\AgendaTelefonicaWEB\bin\Debug\netcoreapp3.1\r
 F:\_estudo\web\AgendaTelefonicaWEB\AgendaTelefonicaWEB\obj\Debug\netcoreapp3.1\AgendaTelefonicaWEB.csprojAssemblyReference.cache
 F:\_estudo\web\AgendaTelefonicaWEB\AgendaTelefonicaWEB\obj\Debug\netcoreapp3.1\staticwebassets\AgendaTelefonicaWEB.StaticWebAssets.xml
 F:\_estudo\web\AgendaTelefonicaWEB\AgendaTelefonicaWEB\obj\Debug\netcoreapp3.1\scopedcss\bundle\AgendaTelefonicaWEB.styles.css
+F:\_estudo\web\AgendaTelefonicaWEB\AgendaTelefonicaWEB\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
